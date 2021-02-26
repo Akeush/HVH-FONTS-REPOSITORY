@@ -1,3 +1,3 @@
 # HVH-FONTS-REPOSITORY
-send hvh fonts at my discord
+send hvh fonts (javascripts/luas using custom fonts) at my discord
 shadow1337 ☾#1605
